@@ -25,7 +25,7 @@ Track your total questions, attempted questions, average score and accuracy, wit
 ### Practice Questions
 Search and filter questions by topic and type, bookmark the ones you want to revisit, or start a quiz from the filtered list.
 
-![Practice Questions](screenshots/practice.png)
+![Practice Questions](screenshots/practice_question.png)
 
 ### Quiz
 Answer timed questions and get instant feedback with a short explanation after each one.
@@ -40,7 +40,7 @@ See your score, correct answers and time used at the end of every quiz.
 ### Quiz History
 Review every completed quiz with its date, score and accuracy.
 
-![Quiz History](screenshots/history.png)
+![Quiz History](screenshots/quiz_history.png)
 
 ## Tech Stack
 
