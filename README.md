@@ -15,6 +15,33 @@ A responsive web app for practicing technical and HR interview questions. Take t
 - **Responsive layout** with a collapsible sidebar on mobile
 - **Reset option** to clear all saved data
 
+  ## Screenshots
+
+### Dashboard
+Track your total questions, attempted questions, average score and accuracy, with a chart of your recent quiz performance.
+
+![Dashboard](screenshots/dashboard.png)
+
+### Practice Questions
+Search and filter questions by topic and type, bookmark the ones you want to revisit, or start a quiz from the filtered list.
+
+![Practice Questions](screenshots/practice.png)
+
+### Quiz
+Answer timed questions and get instant feedback with a short explanation after each one.
+
+![Quiz](screenshots/quiz.png)
+
+### Results
+See your score, correct answers and time used at the end of every quiz.
+
+![Results](screenshots/results.png)
+
+### Quiz History
+Review every completed quiz with its date, score and accuracy.
+
+![Quiz History](screenshots/history.png)
+
 ## Tech Stack
 
 | Area | Technology |
