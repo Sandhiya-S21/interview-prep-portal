@@ -81,8 +81,3 @@ To add a new topic, also add it to the topic dropdown and the Quick Practice but
 - Dark mode
 - Export results
 - Backend with user accounts
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
